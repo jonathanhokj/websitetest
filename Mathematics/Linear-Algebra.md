@@ -1,7 +1,6 @@
 ---
 layout: page
-title: "PAGE-TITLE"
-permalink: /Mathematics
+title: "Test"
 ---
 
 # Linear Algebra is not fun
